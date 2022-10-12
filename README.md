@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Vilaça</h1>
-<h3 align="center">A computer science student at <a href="uminho.pt" target="_blank">University of Minho</a></h3>
+<h3 align="center">A computer science student at <a href="https://uminho.pt" target="_blank">University of Minho</a></h3>
 
 <h2>Programming Carrer 💻</h2>
 <h3 align="left"></h3>
