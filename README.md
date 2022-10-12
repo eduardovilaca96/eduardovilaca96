@@ -26,7 +26,7 @@
 </p>
  
 
-<h3 align="left">Connect with me:</h3>
+<h2>My Projects 💻</h2>
 
 
 
