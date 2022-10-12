@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eduardo Vilaça</h1>
 <h3 align="center">(Currently) A computer science student at <a href="https://www.uminho.pt/PT" target="_blank">University of Minho</a></h3>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardovilaca96&show_icons=true&locale=en&layout=compact" alt="eduardovilaca96" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardovilaca96&" alt="eduardovilaca96" /></p>
+
 <h2>Programming Carrer 💻</h2>
 <h3 align="left"></h3>
 
