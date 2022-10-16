@@ -6,7 +6,7 @@
 <h3 align="left"></h3>
 
 
-<h3 align="left">Junior Sofware Developer at Caso,Lda. 2022</h3>
+<h3 align="left">Junior Sofware Developer. 2022</h3>
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
