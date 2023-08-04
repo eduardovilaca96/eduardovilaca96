@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eduardo Vilaça</h1>
+<div>
+<h2 align="center">Hi 👋, I'm Eduardo Vilaça</h2>
 <h3 align="center">(Currently) A computer science student at <a href="https://www.uminho.pt/PT" target="_blank">University of Minho</a></h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardovilaca96&theme=dark&show_icons=true&locale=en&layout=compact" alt="eduardovilaca96"/></p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardovilaca96&theme=dark&show_icons=true&locale=en&layout=compact" alt="eduardovilaca96"/></div>
+</div>
 <h2>Programming Skills 💻</h2>
 <h3 align="left"></h3>
 <h3 align="left">Learning...</h3>
