@@ -5,9 +5,10 @@
 <h2>Programming Skills 💻</h2>
 <h3 align="left"></h3>
 <h3 align="left">Learning...</h3>
+<div align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
-
+</div>
 <h3 align="left">Junior Sofware Developer. 2022</h3>
 <h4 align="left">Languages and Tools:</h4>
 <div align="left">
