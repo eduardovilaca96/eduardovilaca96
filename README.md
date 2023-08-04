@@ -33,7 +33,7 @@
 <h2>My Projects 💻</h2>
 <h3>2Manage Project Management WebApp</h3>
 <h4>Java SpringBoot Task Manager</h4>
-<a href="https://github.com/eduardovilaca96/2Manage" target="_blank" rel="noreferrer"><img src="https://github.com/eduardovilaca96/2Manage/blob/master/Projeto%20Spring/demo/src/main/webapp/imagens/2M.png" alt="2Manage" style="width:200px"></img> </a>
+<a href="https://github.com/eduardovilaca96/2Manage" target="_blank" rel="noreferrer"><img src="https://github.com/eduardovilaca96/2Manage/blob/master/Projeto%20Spring/demo/src/main/webapp/imagens/2M.png" alt="2Manage" style="width:185px"></img> </a>
 
 
 
