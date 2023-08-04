@@ -4,7 +4,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardovilaca96&theme=dark&show_icons=true&locale=en&layout=compact" alt="eduardovilaca96"/></p>
 <h2>Programming Skills 💻</h2>
 <h3 align="left"></h3>
-
+<h3 align="left">Learning...</h3>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
 
 <h3 align="left">Junior Sofware Developer. 2022</h3>
 <h4 align="left">Languages and Tools:</h4>
